@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.guard-mekanism.refmap.json",
+    "package": "rmc.mixins.guard_mekanism",
+    "mixins": [
+        "EntityFlameMixin"
+    ]
+}
